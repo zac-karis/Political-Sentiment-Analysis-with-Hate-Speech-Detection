@@ -1,0 +1,14 @@
+selenium
+beautiful_soup
+tweepy
+streamlit
+webdriver_manager
+pandas
+levenshtein
+fuzzywuzzy
+tweet-preprocessor
+spacy
+seaborn
+matplotlib
+vaderSentiment
+scikit-learn
