@@ -4,5 +4,4 @@
 #   1. Entity recognition to identify the politicians and political parties being discussed
 #   2. Political sentiment of the politicians identified.
 #   3. Hate Speech recognition of the overall political topic.
-# The project is visualised using Sreamlit which is an open-source app framework for 
-# Machine Learning projects.
+# The project is visualised using Sreamlit which is an open-source app framework for Machine Learning projects.
